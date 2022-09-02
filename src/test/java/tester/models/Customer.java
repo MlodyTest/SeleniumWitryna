@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class Customer {
 
-    private String firstName = "Micha";
+    private String firstName = "Michal";
     private String lastName = "Pasieczny";
     private String companyName = "TestCompany";
     private String countryName = "Poland";
